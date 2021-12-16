@@ -1,0 +1,86 @@
+capital = 99
+
+set_research_slots = 4
+
+set_stability = 0.7
+
+set_war_support = 0.5
+
+add_political_power = 0
+
+set_convoys = 50
+
+set_popularities = {
+	democratic = 10
+	communism = 5
+	fascism = 5
+	neutrality = 80
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1933.11.8"
+	election_frequency = 48
+	elections_allowed = No
+}
+
+create_country_leader = {
+	name = "Tadeas Leigh"
+	desc = "POLITICS_TADEAS_LEIGH_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+	expire = "1979.4.5"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Ikey Judd"
+	desc = "POLITICS_IKEY_JUDD_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_4.dds"
+	expire = "1978.7.17"
+	ideology = anarchist_communism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Gregg Ashwell"
+	desc = "POLITICS_GREGG_ASHWELL_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+	expire = "1976.3.15"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Sivert Levann"
+	desc = "POLITICS_SIVERT_LEVANN_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+	expire = "1968.10.3"
+	ideology = oligarchism
+	traits = {
+	}
+}
+
+create_corps_commander = {
+	name = "Garcia Curley"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	traits = {}
+	attack_skill = 2
+	defense_skill = 5
+	planning_skill = 1
+	logistics_skill = 4
+}
+
+create_navy_leader = {
+	name = "Hashim Woodcock"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_3.dds"
+	traits = {}
+	attack_skill = 3
+	defense_skill = 3
+	maneuvering_skill = 5
+	coordination_skill = 5
+}
+

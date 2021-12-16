@@ -1,0 +1,86 @@
+capital = 25
+
+set_research_slots = 3
+
+set_stability = 0.60
+
+set_war_support = 0.60
+
+add_political_power = 0
+
+set_convoys = 25
+
+set_popularities = {
+	democratic = 8
+	communism = 1
+	fascism = 90
+	neutrality = 1
+}
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1930.5.15"
+	election_frequency = 48
+	elections_allowed = No
+}
+
+create_country_leader = {
+	name = "Heinrich Whittingham"
+	desc = "POLITICS_HEINRICH_WHITTINGHAM_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_4.dds"
+	expire = "1978.2.14"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Reed East"
+	desc = "POLITICS_REED_EAST_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+	expire = "1969.7.27"
+	ideology = anti_revisionism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Ned Dick"
+	desc = "POLITICS_NED_DICK_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_6.dds"
+	expire = "1979.8.13"
+	ideology = falangism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Darrel Lowis"
+	desc = "POLITICS_DARREL_LOWIS_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+	expire = "1965.1.20"
+	ideology = anarchism
+	traits = {
+	}
+}
+
+create_corps_commander = {
+	name = "Manish Lacey"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	traits = {}
+	attack_skill = 5
+	defense_skill = 1
+	planning_skill = 4
+	logistics_skill = 2
+}
+
+create_navy_leader = {
+	name = "Terrell Keys"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_3.dds"
+	traits = {}
+	attack_skill = 3
+	defense_skill = 5
+	maneuvering_skill = 2
+	coordination_skill = 1
+}
+

@@ -1,0 +1,33 @@
+state={
+	id=1
+	name="STATE_1"
+	provinces={
+		26 59 80 143 246 280 316 351 355 361
+	}
+	buildings_max_level_factor=1.000
+        manpower=8000000
+        state_category = city
+
+	history = {
+		owner = JUN
+
+                controller = JUN
+
+		add_core_of = JUN ARC
+
+		<effects>
+		
+		victory_points = {
+			<province id> <points>
+		}
+		
+		buildings = {
+			<building> = <amount>
+			
+
+			<province id> = {
+				<building> = <amount>
+			}
+		}
+	}
+}

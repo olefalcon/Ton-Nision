@@ -1,0 +1,86 @@
+capital = 34
+
+set_research_slots = 3
+
+set_stability = 0.30
+
+set_war_support = 0.50
+
+add_political_power = 0
+
+set_convoys = 25
+
+set_popularities = {
+	democratic = 8
+	communism = 40
+	fascism = 2
+	neutrality = 50
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1933.11.8"
+	election_frequency = 48
+	elections_allowed = No
+}
+
+create_country_leader = {
+	name = "Oscar Rogerson"
+	desc = "POLITICS_OSCAR_ROGERSON_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_6.dds"
+	expire = "1978.2.8"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Jed Harman"
+	desc = "POLITICS_JED_HARMAN_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_5.dds"
+	expire = "1973.8.17"
+	ideology = anti_revisionism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Zeke Olson"
+	desc = "POLITICS_ZEKE_OLSON_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_5.dds"
+	expire = "1971.1.15"
+	ideology = nazism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Zary Ferry"
+	desc = "POLITICS_ZARY_FERRY_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+	expire = "1974.10.4"
+	ideology = oligarchism
+	traits = {
+	}
+}
+
+create_corps_commander = {
+	name = "Hanford Crawley"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
+	traits = {}
+	attack_skill = 1
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 3
+}
+
+create_navy_leader = {
+	name = "Clancy Purvis"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+	traits = {}
+	attack_skill = 2
+	defense_skill = 5
+	maneuvering_skill = 5
+	coordination_skill = 3
+}
+

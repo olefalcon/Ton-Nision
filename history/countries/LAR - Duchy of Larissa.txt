@@ -1,0 +1,86 @@
+capital = 79
+
+set_research_slots = 3
+
+set_stability = 0.50
+
+set_war_support = 0.30
+
+add_political_power = 0
+
+set_convoys = 25
+
+set_popularities = {
+	democratic = 20
+	communism = 10
+	fascism = 5
+	neutrality = 65
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1935.1.30"
+	election_frequency = 48
+	elections_allowed = No
+}
+
+create_country_leader = {
+	name = "Abdullah Bethell"
+	desc = "POLITICS_ABDULLAH_BETHELL_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_4.dds"
+	expire = "1969.10.14"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Merle Barr"
+	desc = "POLITICS_MERLE_BARR_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_5.dds"
+	expire = "1975.1.12"
+	ideology = leninism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Adolphe Banner"
+	desc = "POLITICS_ADOLPHE_BANNER_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+	expire = "1978.5.20"
+	ideology = gen_nazism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Elbert Jiggens"
+	desc = "POLITICS_ELBERT_JIGGENS_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+	expire = "1970.1.21"
+	ideology = centrism
+	traits = {
+	}
+}
+
+create_corps_commander = {
+	name = "Sander Callaghan"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+	traits = {}
+	attack_skill = 1
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 2
+}
+
+create_navy_leader = {
+	name = "Prescott Joseph"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+	traits = {}
+	attack_skill = 5
+	defense_skill = 1
+	maneuvering_skill = 2
+	coordination_skill = 1
+}
+

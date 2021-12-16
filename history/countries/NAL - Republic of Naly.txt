@@ -1,0 +1,86 @@
+capital = 205
+
+set_research_slots = 3
+
+set_stability = 0.45
+
+set_war_support = 0.45
+
+add_political_power = 0
+
+set_convoys = 50
+
+set_popularities = {
+	democratic = 60
+	communism = 2
+	fascism = 3
+	neutrality = 35
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1935.6.1"
+	election_frequency = 12
+	elections_allowed = Yes
+}
+
+create_country_leader = {
+	name = "Orin Antic"
+	desc = "POLITICS_ORIN_ANTIC_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_6.dds"
+	expire = "1970.4.26"
+	ideology = liberalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Guillaume Stretton"
+	desc = "POLITICS_GUILLAUME_STRETTON_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+	expire = "1974.6.5"
+	ideology = anarchist_communism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Hilbert Dyde"
+	desc = "POLITICS_HILBERT_DYDE_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_6.dds"
+	expire = "1965.8.5"
+	ideology = nazism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Tedrick Farren"
+	desc = "POLITICS_TEDRICK_FARREN_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	expire = "1978.7.25"
+	ideology = despotism
+	traits = {
+	}
+}
+
+create_corps_commander = {
+	name = "Bruno Fitch"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	traits = {}
+	attack_skill = 1
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 1
+}
+
+create_navy_leader = {
+	name = "Marietta Leach"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+	traits = {}
+	attack_skill = 4
+	defense_skill = 4
+	maneuvering_skill = 4
+	coordination_skill = 4
+}
+

@@ -1,0 +1,8 @@
+TST = "countries/Test.txt"
+DIS = "countries/Discordia.txt"
+OKE = "countries/Okeanos.txt"
+ARC = "countries/Kingdom of Archangels.txt"
+ARC = "countries/Republic of Juno.txt"
+LAR = "countries/Duchy of Larissa.txt"
+IMP = "countries/Imperial Restoration Cult.txt"
+NAL = "countries/Republic of Naly.txt"

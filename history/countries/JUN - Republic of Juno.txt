@@ -1,0 +1,86 @@
+capital = 355
+
+set_research_slots = 3
+
+set_stability = 0.80
+
+set_war_support = 0.15
+
+add_political_power = 0
+
+set_convoys = 60
+
+set_popularities = {
+	democratic = 60
+	communism = 3
+	fascism = 2
+	neutrality = 35
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1935.1.30"
+	election_frequency = 12
+	elections_allowed = Yes
+}
+
+create_country_leader = {
+	name = "Bartlett Levy"
+	desc = "POLITICS_BARTLETT_LEVY_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	expire = "1968.10.10"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Delbert Oswald"
+	desc = "POLITICS_DELBERT_OSWALD_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+	expire = "1976.4.16"
+	ideology = anarchist_communism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Laurance Thornhill"
+	desc = "POLITICS_LAURANCE_THORNHILL_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	expire = "1966.2.12"
+	ideology = falangism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Quiggly Leahy"
+	desc = "POLITICS_QUIGGLY_LEAHY_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	expire = "1966.1.24"
+	ideology = oligarchism
+	traits = {
+	}
+}
+
+create_corps_commander = {
+	name = "Ehud Edgar"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	traits = {}
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 3
+}
+
+create_navy_leader = {
+	name = "Uli Poon"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_3.dds"
+	traits = {}
+	attack_skill = 2
+	defense_skill = 1
+	maneuvering_skill = 5
+	coordination_skill = 2
+}
+
