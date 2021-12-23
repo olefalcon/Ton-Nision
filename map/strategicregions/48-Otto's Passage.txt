@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=48
+	name="Ottos_Passage"
+	provinces={
+		411 598 604 635 703 794 822 1045 1068 1073 1114 1157 1177 1196 1273 1274 1456 1508 
+	}
+	weather={
+	}
+}

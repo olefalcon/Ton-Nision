@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=51
+	name="Antioch_Trench"
+	provinces={
+		445 465 591 606 668 808 814 862 899 920 1030 1097 1207 1290 1325 1326 1333 1370 1544 1553 
+	}
+	weather={
+	}
+}

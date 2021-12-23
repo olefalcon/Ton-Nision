@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=35
+	name="Ufa_Sea"
+	provinces={
+		772 787 806 819 847 1095 1249 1319 1408 1431 1443 
+	}
+	weather={
+	}
+}

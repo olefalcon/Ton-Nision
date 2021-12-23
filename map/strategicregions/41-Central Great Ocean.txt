@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=41
+	name="Central_Great_Ocean"
+	provinces={
+		460 484 488 497 555 678 747 839 881 884 914 919 948 1039 1082 1266 1379 
+	}
+	weather={
+	}
+}

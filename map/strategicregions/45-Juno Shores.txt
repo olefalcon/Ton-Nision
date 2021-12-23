@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=45
+	name="Juno_Shores"
+	provinces={
+		476 524 552 736 769 773 778 798 803 964 1242 1250 1286 1322 1473 1476 1477 
+	}
+	weather={
+	}
+}

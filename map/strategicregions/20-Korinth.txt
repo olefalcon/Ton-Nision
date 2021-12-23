@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=20
+	name="Korinth"
+	provinces={
+		84 237 283 541 653 771 802 812 1127 1229 1283 1289 1314 1338 1486 1493 1495 
+	}
+	weather={
+	}
+}

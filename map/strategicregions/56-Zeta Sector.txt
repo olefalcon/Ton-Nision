@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=56
+	name="Zeta_Sector"
+	provinces={
+		442 455 456 478 512 572 587 589 618 705 759 817 836 844 907 925 940 976 979 1013 1033 1133 1198 1270 1369 1417 1457 1502 1509 
+	}
+	naval_terrain=water_deep_ocean
+	weather={
+	}
+}

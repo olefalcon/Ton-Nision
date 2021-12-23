@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=19
+	name="Helens_Sea"
+	provinces={
+		603 718 753 1007 1072 1087 1140 1141 1142 1145 1218 1230 1233 1361 1385 1504 
+	}
+	weather={
+	}
+}

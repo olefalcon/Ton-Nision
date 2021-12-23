@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=22
+	name="Leonikus_Coast"
+	provinces={
+		529 582 760 801 804 924 1061 1074 1089 1117 1171 1181 1245 1281 1397 1461 1501 
+	}
+	weather={
+	}
+}

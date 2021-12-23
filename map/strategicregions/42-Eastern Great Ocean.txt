@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=42
+	name="Eastern_Great_Ocean"
+	provinces={
+		451 492 521 654 892 934 945 1054 1212 1231 1293 1305 1310 1350 1483 1487 
+	}
+	weather={
+	}
+}

@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=18
+	name="Fada_Bay"
+	provinces={
+		461 473 730 757 813 830 842 863 1128 1204 1299 1389 1512 1516 1519 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

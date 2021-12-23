@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=52
+	name="Beta_Sector"
+	provinces={
+		446 514 530 636 651 679 829 868 895 1090 1227 1254 1255 1438 1454 
+	}
+	naval_terrain=water_deep_ocean
+	weather={
+	}
+}

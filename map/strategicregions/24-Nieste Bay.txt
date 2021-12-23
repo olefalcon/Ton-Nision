@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=24
+	name="Nieste_Bay"
+	provinces={
+		515 1011 1022 1050 1057 1058 1071 1094 1115 1194 1328 1362 1401 1445 1452 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

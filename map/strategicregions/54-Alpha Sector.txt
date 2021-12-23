@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=54
+	name="Alpha_Sector"
+	provinces={
+		441 477 637 799 854 885 991 1076 1152 1184 1285 1337 1342 1475 
+	}
+	weather={
+	}
+}

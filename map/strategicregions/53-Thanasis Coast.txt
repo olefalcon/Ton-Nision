@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=53
+	name="Thanasis_Coast"
+	provinces={
+		475 626 876 887 989 1122 1225 1353 1539 
+	}
+	weather={
+	}
+}

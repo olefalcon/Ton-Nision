@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=36
+	name="Eyegons_Triangle"
+	provinces={
+		440 685 1005 1036 1153 1269 1357 1442 1520 
+	}
+	naval_terrain=water_deep_ocean
+	weather={
+	}
+}

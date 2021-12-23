@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=33
+	name="Benedicts_Abyss"
+	provinces={
+		584 616 795 821 823 855 959 1031 1143 1222 1232 1298 1330 1368 1387 1424 
+	}
+	naval_terrain=water_deep_ocean
+	weather={
+	}
+}

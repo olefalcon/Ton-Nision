@@ -1,7 +1,0 @@
-strategic_region={
-	id=1
-	name="Southern_Mendoza"
-	provinces={
-		11 124 157 185 192 261 320 339 84 237 283
-	}
-}

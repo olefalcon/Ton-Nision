@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=50
+	name="Finley_Shelf"
+	provinces={
+		425 427 443 469 472 483 501 546 551 585 586 633 762 906 916 952 1051 1070 1165 1173 1213 1320 1364 1426 1446 1556 
+	}
+	naval_terrain=water_deep_ocean
+	weather={
+	}
+}

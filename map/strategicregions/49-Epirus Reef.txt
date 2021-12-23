@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=49
+	name="Epirus_Reef"
+	provinces={
+		420 481 539 580 661 1064 1129 1241 1381 1415 1534 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=43
+	name="Western_Great_Ocean"
+	provinces={
+		417 479 608 630 666 832 900 1001 1125 1272 1394 
+	}
+	weather={
+	}
+}

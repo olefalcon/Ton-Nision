@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=23
+	name="Mendoza_Sea"
+	provinces={
+		470 545 573 670 706 860 861 875 905 971 1119 1121 1156 1208 1223 1244 1276 1313 1339 1434 1451 1514 
+	}
+	naval_terrain=water_shallow_sea
+	weather={
+	}
+}

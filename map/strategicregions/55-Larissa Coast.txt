@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=55
+	name="Larissa_Coast"
+	provinces={
+		458 593 692 761 779 835 909 1110 1327 1412 1458 1468 1480 
+	}
+	weather={
+	}
+}

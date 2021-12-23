@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=38
+	name="Eastern_Byzan_Ocean"
+	provinces={
+		503 523 563 743 946 961 975 993 1046 1101 1137 1234 1354 1366 1411 1430 1550 1551 
+	}
+	weather={
+	}
+}

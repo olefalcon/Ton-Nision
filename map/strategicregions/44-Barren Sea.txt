@@ -1,0 +1,10 @@
+
+strategic_region={
+	id=44
+	name="Barren_Sea"
+	provinces={
+		415 547 557 613 676 752 851 859 977 1060 1088 1189 1209 1275 1418 1429 1478 
+	}
+	weather={
+	}
+}

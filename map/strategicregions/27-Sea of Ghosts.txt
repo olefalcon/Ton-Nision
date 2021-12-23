@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=27
+	name="Sea_of_Ghosts"
+	provinces={
+		419 482 559 631 701 712 734 776 789 807 882 913 915 929 1135 1363 1373 1462 1547 1558 
+	}
+	naval_terrain=water_deep_ocean
+	weather={
+	}
+}

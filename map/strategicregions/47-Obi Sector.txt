@@ -1,0 +1,11 @@
+
+strategic_region={
+	id=47
+	name="Obi_Sector"
+	provinces={
+		422 452 468 474 493 505 564 569 698 756 770 781 872 928 930 978 1002 1043 1155 1253 1260 1300 1329 1432 
+	}
+	naval_terrain=water_deep_ocean
+	weather={
+	}
+}
