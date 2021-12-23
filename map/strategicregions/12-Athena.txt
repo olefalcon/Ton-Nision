@@ -1,0 +1,7 @@
+strategic_region={
+	id=12
+	name="Athena"
+	provinces={
+		21 99 179 254 292 340 30 54 62 197 230 239 8 38 130 215 266 150 329
+	}
+}

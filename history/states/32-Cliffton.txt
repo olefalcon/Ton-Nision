@@ -5,6 +5,20 @@ state={
 		34 51 81 232 272 293 362 404 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+        manpower=9000000
+        state_category = large_city
+
+	history = {
+		owner = ARC
+
+                controller = ARC
+
+		add_core_of = ARC
+		
+
+		
+		buildings = {
+			
+		}
+	}
 }

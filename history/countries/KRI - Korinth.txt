@@ -1,0 +1,86 @@
+capital = 237
+
+set_research_slots = 3
+
+set_stability = 0.5
+
+set_war_support = 0.25
+
+add_political_power = 0
+
+set_convoys = 0
+
+set_popularities = {
+	democratic = 30
+	communism = 15
+	fascism = 20
+	neutrality = 35
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1934.5.30"
+	election_frequency = 48
+	elections_allowed = Yes
+}
+
+create_country_leader = {
+	name = "Wallace Field"
+	desc = "POLITICS_WALLACE_FIELD_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_6.dds"
+	expire = "1966.8.20"
+	ideology = liberalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Giorgi Ecclestone"
+	desc = "POLITICS_GIORGI_ECCLESTONE_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	expire = "1969.7.20"
+	ideology = stalinism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Gabriel Pett"
+	desc = "POLITICS_GABRIEL_PETT_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_4.dds"
+	expire = "1971.1.26"
+	ideology = rexism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Ambrose Powers"
+	desc = "POLITICS_AMBROSE_POWERS_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_5.dds"
+	expire = "1979.2.17"
+	ideology = despotism
+	traits = {
+	}
+}
+
+create_corps_commander = {
+	name = "Trever Allum"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
+	traits = {}
+	attack_skill = 2
+	defense_skill = 5
+	planning_skill = 5
+	logistics_skill = 4
+}
+
+create_navy_leader = {
+	name = "Sutton Tayler"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_3.dds"
+	traits = {}
+	attack_skill = 1
+	defense_skill = 2
+	maneuvering_skill = 1
+	coordination_skill = 4
+}
+

@@ -5,7 +5,16 @@ state={
 		23 48 123 134 155 159 191 202 211 245 284 312 357 368 374
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = enclave
-	impassable = true
+        manpower=5000
+        state_category = wasteland
+	impassable = yes
+
+	history = {
+		owner = DIS
+
+                controller = DIS
+
+		add_core_of = DIS
+
+	}
 }

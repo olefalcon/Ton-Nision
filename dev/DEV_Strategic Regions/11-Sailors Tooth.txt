@@ -1,0 +1,7 @@
+strategic_region={
+	id=11
+	name="Sailors_Tooth"
+	provinces={
+		27 231 265 281 402 10 25 74 118 240 353 403 200 208 401 22 328
+	}
+}

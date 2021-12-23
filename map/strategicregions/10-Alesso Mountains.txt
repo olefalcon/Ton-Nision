@@ -1,0 +1,7 @@
+strategic_region={
+	id=10
+	name="Alesso_Mountains"
+	provinces={
+		23 48 123 134 155 159 191 202 211 245 284 312 357 368 374
+	}
+}

@@ -1,0 +1,7 @@
+strategic_region={
+	id=4
+	name="Bay_Area"
+	provinces={
+		17 77 102 116 117 135 160 223 241 258 331 20 64 126 140 176 229 297
+	}
+}

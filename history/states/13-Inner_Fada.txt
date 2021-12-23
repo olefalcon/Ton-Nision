@@ -5,6 +5,22 @@ state={
 		226 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+        manpower=30000000
+        state_category = megalopolis
+
+	history = {
+		owner = DIS
+
+                controller = DIS
+
+		add_core_of = DIS
+		
+		victory_points = {
+			226 20
+		}
+		
+		buildings = {
+			
+		}
+	}
 }

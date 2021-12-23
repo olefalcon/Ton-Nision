@@ -1,0 +1,7 @@
+strategic_region={
+	id=20
+	name="Fada_Bay"
+	provinces={
+		863 830 757 461 1516 1299 730 473 1204 1519 1389 1128 813 842 1512
+	}
+}

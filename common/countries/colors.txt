@@ -828,7 +828,7 @@ ARC = {
 	color = rgb { 255 0 0 }
 	color_ui  = rgb { 225 0 0 }
 }
-ARC = {
+JUN = {
 	color = rgb { 128 0 255 }
 	color_ui  = rgb { 98 0 225 }
 }
@@ -836,11 +836,15 @@ LAR = {
 	color = rgb { 128 255 255 }
 	color_ui  = rgb { 98 225 225 }
 }
-IMP = {
+IRP = {
 	color = rgb { 128 0 0 }
 	color_ui  = rgb { 98 0 0 }
 }
 NAL = {
 	color = rgb { 0 128 128 }
 	color_ui  = rgb { 0 98 98 }
+}
+KRI = {
+	color = rgb { 255 255 0 }
+	color_ui  = rgb { 225 225 0 }
 }

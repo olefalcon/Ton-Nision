@@ -1,0 +1,7 @@
+strategic_region={
+	id=9
+	name="Greater_Helens"
+	provinces={
+		365 46 88 112 219 338 366 367 115 120 149 300 336 43 78 122 127 217 335 350 370
+	}
+}

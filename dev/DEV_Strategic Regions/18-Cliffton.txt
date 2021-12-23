@@ -1,0 +1,7 @@
+strategic_region={
+	id=18
+	name="Cliffton"
+	provinces={
+		225 277 364 34 51 81 232 272 293 362 404 3 4 67 71 164 270 330
+	}
+}

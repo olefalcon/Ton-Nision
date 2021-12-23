@@ -1,0 +1,7 @@
+strategic_region={
+	id=16
+	name="Dexia"
+	provinces={
+		42 193 222 295 334 136 184 206 224 354
+	}
+}

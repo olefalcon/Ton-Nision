@@ -1,0 +1,7 @@
+strategic_region={
+	id=15
+	name="Aristeri"
+	provinces={
+		172 199 233 313 314 36 69 91 318
+	}
+}

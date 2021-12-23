@@ -5,6 +5,20 @@ state={
 		8 38 130 215 266 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+        manpower=8000000
+        state_category = city
+
+	history = {
+		owner = OKE
+
+                controller = OKE
+
+		add_core_of = OKE
+		
+
+		
+		buildings = {
+			
+		}
+	}
 }

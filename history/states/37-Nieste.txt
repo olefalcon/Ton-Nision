@@ -5,6 +5,19 @@ state={
 		29 39 60 139 324 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+        manpower=8000000
+        state_category = large_town
+
+	history = {
+		owner = DIS
+
+                controller = DIS
+
+		add_core_of = DIS
+		
+		
+		buildings = {
+			
+		}
+	}
 }
