@@ -16,7 +16,7 @@ state={
 		add_core_of = KRI
 		
 		buildings = {
-			
+			infrastructure = 2
 		}
 	}
 }
