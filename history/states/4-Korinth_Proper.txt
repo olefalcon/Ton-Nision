@@ -1,0 +1,22 @@
+state={
+	id=4
+	name="STATE_6"
+	provinces={
+		84 237 283 
+	}
+	buildings_max_level_factor=1.000
+        manpower=5000000
+        state_category = city
+
+	history = {
+		owner = KRI
+
+                controller = KRI
+
+		add_core_of = KRI
+		
+		buildings = {
+			
+		}
+	}
+}

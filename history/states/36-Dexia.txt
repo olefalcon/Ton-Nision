@@ -1,0 +1,24 @@
+state={
+	id=36
+	name="STATE_48"
+	provinces={
+		42 193 222 295 334 
+	}
+	buildings_max_level_factor=1.000
+        manpower=5000000
+        state_category = large_town
+
+	history = {
+		owner = DEX
+
+                controller = DEX
+
+		add_core_of = DEX
+		
+		victory_points = {334 20}
+		
+		buildings = {
+			
+		}
+	}
+}
