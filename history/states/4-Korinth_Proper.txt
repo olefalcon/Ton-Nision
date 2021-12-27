@@ -5,6 +5,18 @@ state={
 		84 237 283 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+        manpower=5000000
+        state_category = city
+
+	history = {
+		owner = KRI
+
+                controller = KRI
+
+		add_core_of = KRI
+		
+		buildings = {
+			
+		}
+	}
 }
