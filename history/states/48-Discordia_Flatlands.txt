@@ -1,0 +1,24 @@
+state={
+	id=48
+	name="STATE_60"
+	provinces={
+		63 66 186 189 198 204 250 282 309 327 349 385 388 390 391 
+	}
+	buildings_max_level_factor=1.000
+        manpower= 5000000
+        state_category = rural
+
+	history = {
+		owner = DIS
+
+                controller = DIS
+
+		add_core_of = DIS
+		
+
+		
+		buildings = {
+			
+		}
+	}
+}

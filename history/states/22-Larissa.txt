@@ -1,0 +1,24 @@
+state={
+	id=22
+	name="STATE_33"
+	provinces={
+		13 56 76 79 111 113 147 154 161 296 306 360 363 
+	}
+	buildings_max_level_factor=1.000
+        manpower=8000000
+        state_category = city
+
+	history = {
+		owner = ARC
+
+                controller = ARC
+
+		add_core_of = ARC
+		
+
+		
+		buildings = {
+			
+		}
+	}
+}

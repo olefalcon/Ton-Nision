@@ -1,0 +1,23 @@
+state={
+	id=16
+	name="STATE_26"
+	provinces={
+		21 99 179 254 292 340 
+	}
+	buildings_max_level_factor=1.000
+        manpower=12000000
+        state_category = megalopolis
+
+	history = {
+		owner = OKE
+
+                controller = OKE
+
+		add_core_of = OKE
+		
+		
+		buildings = {
+			
+		}
+	}
+}

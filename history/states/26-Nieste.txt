@@ -1,0 +1,23 @@
+state={
+	id=26
+	name="STATE_37"
+	provinces={
+		29 39 60 139 324 
+	}
+	buildings_max_level_factor=1.000
+        manpower=8000000
+        state_category = large_town
+
+	history = {
+		owner = DIS
+
+                controller = DIS
+
+		add_core_of = DIS
+		
+		
+		buildings = {
+			
+		}
+	}
+}
