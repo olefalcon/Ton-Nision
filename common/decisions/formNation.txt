@@ -1,0 +1,171 @@
+formable_nations_mod_category = {
+#	formable_nations_generic = {
+#	
+#		ai_will_do = {
+#			factor = 1
+#			modifier = {
+#				factor = 0
+#				has_global_flag = ai_disabled 
+#			}
+#		}
+#		
+#		cost = 0  days_re_enable = 0
+#		
+#		visible = {
+#			NOT = { has_country_flag = unform_available }
+#			NOT = { has_global_flag = hide_formable_nations }
+#			OR = { 
+#				has_global_flag = no_limit
+#				original_tag = TAG1
+#				original_tag = TAG2
+#				original_tag = TAG3
+#			}
+#			always = no
+#		}
+#		available = {
+#			OR = {
+#				AND = {
+#					OR = { is_subject = no has_global_flag = puppets_allowed }
+#					
+#					count_triggers = {
+#						amount = 4#90% rounded up, continents and other exceptions don't use this
+#						1 = { is_controlled_by = ROOT }
+#						1 = { is_controlled_by = ROOT }
+#						1 = { is_controlled_by = ROOT }
+#						1 = { is_controlled_by = ROOT }
+#					}
+#				}
+#				AND = {
+#					is_ai = no
+#					has_global_flag = debug_mode
+#				}
+#			}
+#			custom_trigger_tooltip = { tooltip = not_already_existing_tt NOT = { any_country = { has_cosmetic_tag = FORM_NEWTAG } } }
+#		}
+#		icon = generic_form_nation
+#		complete_effect = { capital_scope = { set_state_flag = formable_nations_old_capital }
+#			set_cosmetic_tag = FORM_NEWTAG
+#			#add_stability = 0.2
+#			set_capital = 1
+#			custom_effect_tooltip = core_land
+#			hidden_effect = { sound_effect = complete_focus  set_country_flag = unform_available
+#				1 = { add_core_of = ROOT }
+#			}
+#			1 = { add_core_of = ROOT }
+#		}
+#	}
+#	no_cosmetic_tag = {
+#		
+#		ai_will_do = {
+#			factor = 0
+#		}
+#		cost = 0
+#		visible = { 
+#			is_ai = no
+#			NOT = { has_country_flag = hide_options_formable_nations }
+#			has_country_flag = unform_available
+#		}
+#		days_re_enable = 0
+#		
+#		icon = generic_decision
+#		complete_effect = {
+#			hidden_effect = { clr_country_flag = unform_available }
+#			drop_cosmetic_tag = yes
+#			#add_stability = -0.2
+#			random_owned_state = {
+#				limit = {
+#					has_state_flag = formable_nations_old_capital
+#				}
+#				clr_state_flag = formable_nations_old_capital
+#				ROOT = { set_capital = PREV }
+#			}
+#		}
+#	}
+
+
+
+
+	formable_nations_ostland = {
+	
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				has_global_flag = ai_disabled 
+			}
+		}
+		
+		cost = 0  days_re_enable = 0
+		
+		visible = {
+			NOT = { has_country_flag = unform_available }
+			NOT = { has_global_flag = hide_formable_nations }
+			OR = { 
+				has_global_flag = no_limit
+				original_tag = OKE
+			}
+			always = no
+		}
+		available = {
+			OR = {
+				AND = {
+					OR = { is_subject = no has_global_flag = puppets_allowed }
+					
+					count_triggers = {
+						amount = 3
+						14 = { is_controlled_by = ROOT }
+						12 = { is_controlled_by = ROOT }
+						20 = { is_controlled_by = ROOT }
+					}
+				}
+				AND = {
+					is_ai = no
+					has_global_flag = debug_mode
+				}
+			}
+			custom_trigger_tooltip = { tooltip = not_already_existing_tt NOT = { any_country = { has_cosmetic_tag = FORM_OST } } }
+		}
+		icon = generic_form_nation
+		complete_effect = { capital_scope = { set_state_flag = formable_nations_old_capital }
+			set_cosmetic_tag = FORM_OST
+			#add_stability = 0.2
+			set_capital = 12
+			custom_effect_tooltip = core_land
+			hidden_effect = { sound_effect = complete_focus  set_country_flag = unform_available
+			}
+				16 = { add_core_of = ROOT }
+				14 = { add_core_of = ROOT }
+				15 = { add_core_of = ROOT }
+				18 = { add_core_of = ROOT }
+				50 = { add_core_of = ROOT }
+				51 = { add_core_of = ROOT }
+				53 = { add_core_of = ROOT }
+		}
+	}
+	no_cosmetic_tag = {
+		
+		ai_will_do = {
+			factor = 0
+		}
+		cost = 0
+		visible = { 
+			is_ai = no
+			NOT = { has_country_flag = hide_options_formable_nations }
+			has_country_flag = unform_available
+		}
+		days_re_enable = 0
+		
+		icon = generic_decision
+		complete_effect = {
+			hidden_effect = { clr_country_flag = unform_available }
+			drop_cosmetic_tag = yes
+			#add_stability = -0.2
+			random_owned_state = {
+				limit = {
+					has_state_flag = formable_nations_old_capital
+				}
+				clr_state_flag = formable_nations_old_capital
+				ROOT = { set_capital = PREV }
+			}
+		}
+	}
