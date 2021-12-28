@@ -1,6 +1,6 @@
 state={
 	id=21
-	name="STATE_32"
+	name="STATE_Cliffton"
 	provinces={
 		34 51 81 232 272 293 362 404 
 	}

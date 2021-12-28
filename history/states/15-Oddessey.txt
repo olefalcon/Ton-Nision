@@ -1,6 +1,6 @@
 state={
 	id=15
-	name="STATE_23"
+	name="STATE_Oddessey"
 	provinces={
 		8 38 130 215 266 
 	}

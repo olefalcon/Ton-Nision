@@ -1,6 +1,6 @@
 state={
 	id=25
-	name="STATE_36"
+	name="STATE_Ledo"
 	provinces={
 		93 114 121 311 
 	}

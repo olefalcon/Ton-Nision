@@ -1,6 +1,6 @@
 state={
 	id=52
-	name="STATE_64"
+	name="STATE_Flo_Scua"
 	provinces={
 		27 231 265 281 402 
 	}

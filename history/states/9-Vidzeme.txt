@@ -1,6 +1,6 @@
 state={
 	id=9
-	name="STATE_12"
+	name="STATE_Vidzeme"
 	provinces={
 		136 184 206 224 354 
 	}

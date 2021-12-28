@@ -1,6 +1,6 @@
 state={
 	id=51
-	name="STATE_63"
+	name="STATE_Alexandria"
 	provinces={
 		15 100 119 173 183 194 209 220 248 255 298 307 315 342 
 	}

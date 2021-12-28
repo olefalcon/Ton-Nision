@@ -1,6 +1,6 @@
 state={
 	id=22
-	name="STATE_33"
+	name="STATE_Larissa"
 	provinces={
 		13 56 76 79 111 113 147 154 161 296 306 360 363 
 	}

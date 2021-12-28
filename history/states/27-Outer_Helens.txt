@@ -1,6 +1,6 @@
 state={
 	id=27
-	name="STATE_38"
+	name="STATE_Outer_Helens"
 	provinces={
 		46 88 112 219 338 366 367 
 	}

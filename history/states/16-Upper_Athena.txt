@@ -1,6 +1,6 @@
 state={
 	id=16
-	name="STATE_26"
+	name="STATE_Upper_Athena"
 	provinces={
 		21 99 179 254 292 340 
 	}

@@ -1,6 +1,6 @@
 state={
 	id=3
-	name="STATE_3"
+	name="STATE_Helens"
 	provinces={
 		365 
 	}

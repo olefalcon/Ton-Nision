@@ -1,6 +1,6 @@
 state={
 	id=13
-	name="STATE_19"
+	name="STATE_Nalian_Archipegalo"
 	provinces={
 		279 287 405 406 
 	}

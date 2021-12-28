@@ -1,6 +1,6 @@
 state={
 	id=32
-	name="STATE_44"
+	name="STATE_Mendoza_City"
 	provinces={
 		2 251 269 372 
 	}

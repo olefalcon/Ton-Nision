@@ -1,6 +1,6 @@
 state={
 	id=42
-	name="STATE_54"
+	name="STATE_Minas"
 	provinces={
 		31 40 65 242 323 380 
 	}

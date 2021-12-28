@@ -1,6 +1,6 @@
 state={
 	id=11
-	name="STATE_14"
+	name="STATE_Nalian_Heights"
 	provinces={
 		58 170 228 286 394 
 	}

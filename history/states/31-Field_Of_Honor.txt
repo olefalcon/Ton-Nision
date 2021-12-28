@@ -1,6 +1,6 @@
 state={
 	id=31
-	name="STATE_43"
+	name="STATE_Field_Of_Honor"
 	provinces={
 		6 178 196 369 371 
 	}

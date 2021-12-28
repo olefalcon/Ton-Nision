@@ -1,6 +1,6 @@
 state={
 	id=19
-	name="STATE_30"
+	name="STATE_Thiona"
 	provinces={
 		200 208 401 
 	}

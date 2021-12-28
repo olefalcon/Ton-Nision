@@ -1,6 +1,6 @@
 state={
 	id=46
-	name="STATE_58"
+	name="STATE_Outer_Fada"
 	provinces={
 		14 49 55 94 110 129 163 249 291 321 359 381 
 	}

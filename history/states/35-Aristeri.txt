@@ -1,6 +1,6 @@
 state={
 	id=35
-	name="STATE_47"
+	name="STATE_Aristeri"
 	provinces={
 		36 69 91 318 
 	}

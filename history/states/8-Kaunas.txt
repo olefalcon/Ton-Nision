@@ -1,6 +1,6 @@
 state={
 	id=8
-	name="STATE_11"
+	name="STATE_Kaunas"
 	provinces={
 		172 199 233 313 314 
 	}

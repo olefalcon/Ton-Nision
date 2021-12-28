@@ -1,6 +1,6 @@
 state={
 	id=50
-	name="STATE_62"
+	name="STATE_Kotori"
 	provinces={
 		9 16 177 203 303 346 397 399 
 	}

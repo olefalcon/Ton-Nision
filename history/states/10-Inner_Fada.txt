@@ -1,6 +1,6 @@
 state={
 	id=10
-	name="STATE_13"
+	name="STATE_Inner_Fada"
 	provinces={
 		226 
 	}

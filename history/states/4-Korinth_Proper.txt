@@ -1,6 +1,6 @@
 state={
 	id=4
-	name="STATE_6"
+	name="STATE_Korinth_Proper"
 	provinces={
 		84 237 283 
 	}

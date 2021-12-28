@@ -1,6 +1,6 @@
 state={
 	id=5
-	name="STATE_8"
+	name="STATE_Korinth_Islands"
 	provinces={
 		11 124 157 185 192 261 320 339 
 	}

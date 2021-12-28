@@ -1,6 +1,6 @@
 state={
 	id=40
-	name="STATE_52"
+	name="STATE_Pierce_Meadows"
 	provinces={
 		1 5 90 152 158 166 167 221 243 259 278 301 310 
 	}

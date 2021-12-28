@@ -1,6 +1,6 @@
 state={
 	id=2
-	name="STATE_2"
+	name="STATE_Coletta"
 	provinces={
 		225 277 364 
 	}

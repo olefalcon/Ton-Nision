@@ -1,6 +1,6 @@
 state={
 	id=44
-	name="STATE_56"
+	name="STATE_Mendoza_Expanse"
 	provinces={
 		12 18 68 72 83 104 108 132 165 207 214 216 218 235 274 276 392 
 	}

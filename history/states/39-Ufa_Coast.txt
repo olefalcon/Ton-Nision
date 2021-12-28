@@ -1,6 +1,6 @@
 state={
 	id=39
-	name="STATE_51"
+	name="STATE_Ufa_Coast"
 	provinces={
 		70 128 145 201 212 244 256 264 384 
 	}

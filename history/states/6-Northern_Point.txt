@@ -1,6 +1,6 @@
 state={
 	id=6
-	name="STATE_9"
+	name="STATE_Northern_Point"
 	provinces={
 		41 50 87 133 175 288 289 319 
 	}

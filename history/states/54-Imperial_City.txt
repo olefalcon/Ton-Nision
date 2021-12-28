@@ -1,6 +1,6 @@
 state={
 	id=54
-	name="STATE_66"
+	name="STATE_Imperial_City"
 	provinces={
 		10 25 74 118 240 353 403 
 	}

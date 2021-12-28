@@ -1,6 +1,6 @@
 state={
 	id=43
-	name="STATE_55"
+	name="STATE_Great_Farmland"
 	provinces={
 		73 141 227 234 285 345 378 379 
 	}

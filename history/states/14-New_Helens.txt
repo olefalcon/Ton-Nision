@@ -1,6 +1,6 @@
 state={
 	id=14
-	name="STATE_20"
+	name="STATE_New_Helens"
 	provinces={
 		7 37 61 103 151 153 169 180 252 253 268 304 317 343 400 407 
 	}

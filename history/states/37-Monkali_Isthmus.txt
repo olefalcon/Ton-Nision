@@ -1,6 +1,6 @@
 state={
 	id=37
-	name="STATE_49"
+	name="STATE_Monkali_Isthmus"
 	provinces={
 		17 77 102 116 117 135 160 223 241 258 331 
 	}

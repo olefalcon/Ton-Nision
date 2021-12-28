@@ -1,6 +1,6 @@
 state={
 	id=38
-	name="STATE_50"
+	name="STATE_Geson"
 	provinces={
 		24 85 92 98 144 190 271 308 377 
 	}

@@ -1,6 +1,6 @@
 state={
 	id=47
-	name="STATE_59"
+	name="STATE_Northern_Rumo"
 	provinces={
 		32 47 52 75 106 107 171 182 195 238 273 302 341 386 387 389 
 	}

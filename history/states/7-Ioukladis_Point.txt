@@ -1,6 +1,6 @@
 state={
 	id=7
-	name="STATE_10"
+	name="STATE_Ioukladis_Point"
 	provinces={
 		101 109 188 347 
 	}

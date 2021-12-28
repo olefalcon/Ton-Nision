@@ -1,6 +1,6 @@
 state={
 	id=17
-	name="STATE_28"
+	name="STATE_Sailors_Tooth"
 	provinces={
 		22 328 
 	}

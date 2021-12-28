@@ -1,6 +1,6 @@
 state={
 	id=48
-	name="STATE_60"
+	name="STATE_Discordia_Flatlands"
 	provinces={
 		63 66 186 189 198 204 250 282 309 327 349 385 388 390 391 
 	}

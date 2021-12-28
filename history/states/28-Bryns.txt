@@ -1,6 +1,6 @@
 state={
 	id=28
-	name="STATE_39"
+	name="STATE_Bryns"
 	provinces={
 		43 78 122 127 217 335 350 370 
 	}

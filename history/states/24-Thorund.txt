@@ -1,6 +1,6 @@
 state={
 	id=24
-	name="STATE_35"
+	name="STATE_Thorund"
 	provinces={
 		115 120 149 300 336 
 	}
