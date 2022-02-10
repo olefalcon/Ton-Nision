@@ -1,0 +1,127 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "DIS"
+		default = yes
+		
+		"DIS"={
+			history = "DIS_GATHERING_STORM_DESC"
+			ideology = democratic
+			available = { NOT = { has_dlc = "La Resistance" } }
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"DIS"={
+			history = "DIS_GATHERING_STORM_DESC"
+			ideology = democratic
+			available = { has_dlc = "La Resistance" } 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"OKE"={
+			history = "OKE_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"ARC"={
+			history = "ARC_GATHERING_STORM_DESC"
+			ideology = neutrality
+			available = { has_dlc = "Man the Guns" }
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"ARC"={
+			history = "ARC_GATHERING_STORM_DESC"
+			ideology = neutrality
+			available = { NOT = { has_dlc = "Man the Guns" } }
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"IRP"={
+			history = "IRP_GATHERING_STORM_DESC"
+			ideology = fascism
+			available = { has_dlc = "Waking the Tiger" }
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"IRP"={
+			history = "GER_GATHERING_STORM_DESC"
+			ideology = fascism
+			available = { NOT = { has_dlc = "Waking the Tiger" } }
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"NAL"={
+			history = "NAL_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+			}	
+			focuses = {
+			}		
+		}
+		"JUN"={
+			history = "JUN_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+			}	
+			focuses = {
+			}			
+		}
+		"KRI"={
+			history = "KRI_GATHERING_STORM_DESC"
+			ideology = democratic
+			available = { has_dlc = "No Step Back" }
+			ideas = {
+			}
+			focuses = {
+			}	
+		}
+		"KRI"={
+			history = "SOV_GATHERING_STORM_DESC"
+			ideology = democratic
+			available = { NOT = { has_dlc = "No Step Back" } }
+			ideas = {
+			}
+			focuses = {
+			}	
+		}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
+
+		# minors from DLC ####
+		"LAR"={
+			minor = yes
+			history = "LAR_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
